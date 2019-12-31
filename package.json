@@ -1,0 +1,26 @@
+{
+  "name": "geoidb",
+  "version": "1.0.0",
+  "description": "Backend for project Geoid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishwarya25252/geoidb.git"
+  },
+  "author": "Aishwarya Barik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishwarya25252/geoidb/issues"
+  },
+  "homepage": "https://github.com/aishwarya25252/geoidb#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
